@@ -31,3 +31,9 @@ Para alteração do código fonte , utilize o Microsoft Visual C# 2010 Express o
 ## Licença
 
 O conteúdo desse projeto, em si, é licenciado sob [Creative Commons Attribution 3.0 license](https://creativecommons.org/licenses/by/4.0/legalcode.pt), e o código fonte subjacente usado para formatar e exibir esse conteúdo sob a [licença MIT]( http://opensource.org/licenses/mit-license.php ).
+
+## Estatísticas
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=csr4mos)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
