@@ -24,9 +24,9 @@ Instale o executável e faça as operações de Cadastro , Leitura , Atualizaç�
 
 ![Print Cadastro de Clientes em C# - Alcides Maya Tecnologia - Ano de 2015]![alt text](https://raw.githubusercontent.com/ramoscsk/cadastro-de-clientes-em-csharp/master/assets/Print_%201.jpg)
 
-[alt text](https://raw.githubusercontent.com/ramoscsk/cadastro-de-clientes-em-csharp/master/assets/Print_%202.jpg)
+![Print Cadastro de Clientes em C# - Alcides Maya Tecnologia - Ano de 2015]![alt text](https://raw.githubusercontent.com/ramoscsk/cadastro-de-clientes-em-csharp/master/assets/Print_%202.jpg)
 
-[alt text](https://raw.githubusercontent.com/ramoscsk/cadastro-de-clientes-em-csharp/master/assets/Print_%203.jpg)
+![Print Cadastro de Clientes em C# - Alcides Maya Tecnologia - Ano de 2015]![alt text](https://raw.githubusercontent.com/ramoscsk/cadastro-de-clientes-em-csharp/master/assets/Print_%203.jpg)
 
 ## Configuração para Desenvolvimento
 
