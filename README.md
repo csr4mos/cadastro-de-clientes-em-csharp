@@ -22,7 +22,7 @@ Instale o executável e faça as operações de Cadastro , Leitura , Atualizaç�
 
 ## Prints
 
-![Print Cadastro de Clientes em C# - TCC de Cristiano Ramos na Alcides Maya Tecnologia - Ano de 2015]![alt text](https://raw.githubusercontent.com/csramos1980/tcc-alcides-maya/master/Print%20PFCShrap%20(1).jpg)
+![Print Cadastro de Clientes em C# - Alcides Maya Tecnologia - Ano de 2015]![alt text](https://raw.githubusercontent.com/csramos1980/tcc-alcides-maya/master/Print%20PFCShrap%20(1).jpg)
 
 ## Configuração para Desenvolvimento
 
